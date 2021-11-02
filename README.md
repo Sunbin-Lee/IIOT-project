@@ -1,7 +1,9 @@
 # IIOT-project
 code for IIOT Project  
   
-현재 issue : 데이터 전처리 train/test split 후에 진행 ?  
+현재 issue 
+- 데이터 전처리 train/test split 후에 진행 ? 데이터를 다시 받아서 해결할 수도 있음  
+- stateful ?
   
 # Reference  
 https://github.com/ruohoruotsi/LSTM-Music-Genre-Classification/blob/master/lstm_genre_classifier_pytorch.py  
