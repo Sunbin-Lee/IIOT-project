@@ -1,9 +1,6 @@
 # IIOT-project
 code for IIOT Project  
   
-현재 issue 
-- data scaling train/test split 후에 진행 ?
-  
 # Reference  
 LSTM classification code  
 https://github.com/ruohoruotsi/LSTM-Music-Genre-Classification/blob/master/lstm_genre_classifier_pytorch.py  
