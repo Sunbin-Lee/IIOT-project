@@ -1,6 +1,7 @@
 # IIOT-project
 code for IIOT Project  
-  
+Multi-variate time-series data analysis using LSTM classification and LSTM autoencoder
+
 # Reference  
 LSTM classification code  
 https://github.com/ruohoruotsi/LSTM-Music-Genre-Classification/blob/master/lstm_genre_classifier_pytorch.py  
