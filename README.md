@@ -1,5 +1,5 @@
 # IIOT-project
-Multivariate time series data analysis for IIOT Project using LSTM classification and LSTM autoencoder 
+Multivariate time series data analysis using LSTM classification and LSTM autoencoder 
 
 # Prize
 2021 스마트공장 운영설계 전문인력 양성사업 성과발표회  
