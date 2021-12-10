@@ -1,13 +1,17 @@
 # IIOT-project
 code for IIOT Project  
-Multi-variate time-series data analysis using LSTM classification and LSTM autoencoder
+
+# Contents
+Multi-variate time-series data analysis using LSTM classification and LSTM autoencoder  
+
+# Prize
+2021 스마트공장 운영설계 전문인력 양성사업 성과발표회  
+🏆
+한국산업지능화협회장상 (우수상)  
 
 # Reference  
 LSTM classification code  
 https://github.com/ruohoruotsi/LSTM-Music-Genre-Classification/blob/master/lstm_genre_classifier_pytorch.py  
-  
-about LSTM AE & data preprocessing  
-https://velog.io/@jonghne/LSTM-AE%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B4%EC%83%81-%ED%83%90%EC%A7%80-2-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC  
   
 LSTM AE pytorch code  
 https://data-newbie.tistory.com/567  
